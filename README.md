@@ -66,8 +66,8 @@ app/src/main/java/com/example/cheapshark/
 
 ## 🎥 Vídeo demonstrativo
 
-> Link do vídeo (YouTube, não listado): _adicionar aqui antes da entrega (prazo: 27/08)_
+> Link do vídeo (YouTube, não listado): https://youtu.be/jRL58yAxSAM
 
 ## 📸 Screenshots
 
-> Adicionar aqui as imagens da interface (pasta `screenshots/`) antes do envio do repositório.
+> imagens da interface (pasta `screenshots/`).
