@@ -1,0 +1,3 @@
+# Copie este arquivo para "local.properties" (na raiz do projeto) e ajuste o caminho do SDK.
+# A CheapShark API NÃO exige chave/autenticação, então nenhuma outra configuração é necessária.
+sdk.dir=/caminho/para/seu/Android/sdk
